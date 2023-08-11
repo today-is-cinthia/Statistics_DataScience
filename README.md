@@ -1,3 +1,3 @@
 # Statistics_DataScience
 
-Jupyter Notebook Statistics Data Science and analysis plus graphics program 
+#Jupyter Notebook Statistics Data Science and analysis plus graphics program 
